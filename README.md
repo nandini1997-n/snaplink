@@ -4,7 +4,7 @@ A full-stack URL shortener built with **React**, **Node.js**, **Express**, and *
 
 ![SnapLink Dashboard](https://via.placeholder.com/900x450/6366f1/ffffff?text=SnapLink+Dashboard)
 
-## ✨ Features
+##  Features
 
 - **URL Shortening** — Shorten any URL with auto-generated or custom slugs
 - **Click Analytics** — Track total clicks, daily trends, device & browser breakdowns
@@ -13,7 +13,7 @@ A full-stack URL shortener built with **React**, **Node.js**, **Express**, and *
 - **Link Expiry** — Set optional expiration dates on links
 - **Redirect Engine** — Fast `GET /:slug` redirect with click logging
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -23,7 +23,7 @@ A full-stack URL shortener built with **React**, **Node.js**, **Express**, and *
 | Auth | JWT + bcryptjs |
 | Styling | Custom CSS (no framework) |
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 - Node.js 18+
@@ -59,7 +59,7 @@ npm run dev
 
 Visit `http://localhost:5173` — the app is running!
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 snaplink/
@@ -98,7 +98,7 @@ snaplink/
 | GET | `/api/links/:id/analytics` | ✅ | Get link analytics |
 | GET | `/:slug` | ❌ | Redirect to original URL |
 
-## 🌐 Deployment
+##  Deployment
 
 - **Backend** → [Render.com](https://render.com) (free tier)
 - **Frontend** → [Vercel](https://vercel.com) (free tier)
