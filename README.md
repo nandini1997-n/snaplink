@@ -2,7 +2,7 @@
 
 A full-stack URL shortener built with **React**, **Node.js**, **Express**, and **PostgreSQL**.
 
-![SnapLink Dashboard](https://via.placeholder.com/900x450/6366f1/ffffff?text=SnapLink+Dashboard)
+![SnapLink Dashboard](./screenshots/dashboard.png)
 
 ##  Features
 
