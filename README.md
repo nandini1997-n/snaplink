@@ -4,6 +4,10 @@ A full-stack URL shortener built with **React**, **Node.js**, **Express**, and *
 
 ![SnapLink Dashboard](https://via.placeholder.com/900x450/6366f1/ffffff?text=SnapLink+Dashboard)
 
+## 🚀 Live Demo
+
+👉 [Try SnapLink Live](https://snaplink-omega-pearl.vercel.app)
+
 ## ✨ Features
 
 - **URL Shortening** — Shorten any URL with auto-generated or custom slugs
